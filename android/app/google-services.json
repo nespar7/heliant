@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "741209422842",
+    "project_id": "iliantall",
+    "storage_bucket": "iliantall.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:741209422842:android:1074d9c2f3e94b5343c243",
+        "android_client_info": {
+          "package_name": "com.team.six.heliant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "741209422842-2m2spmqbd35gdhq2os6v5368ps2r4sqs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.team.six.heliant",
+            "certificate_hash": "b3516557a2e801017d5de8bb3e746a086daaae68"
+          }
+        },
+        {
+          "client_id": "741209422842-3kcffbi4m810vih73sflv2qjvneidr88.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0E4JtKQbdDLi12TB92K7zrOPFDOPNo6Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "741209422842-3kcffbi4m810vih73sflv2qjvneidr88.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "741209422842-gn5tci94ck4qtbe0rogn01liq42tkbqg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.iliantall"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
